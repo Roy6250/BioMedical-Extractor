@@ -205,7 +205,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-
-# API Key : AIzaSyA991yvb37XuLvC24A5-WSOKlCP-P-pfDA
