@@ -1,0 +1,929 @@
+pubmed_id,title,journal,abstract,keywords
+40183482,EXPRESS: Pediatric AML Prognostication with an m6A-Focused Lasso Model.,Journal of investigative medicine : the official publication of the American Federation for Clinical Research (J Investig Med),"Acute myeloid leukemia (AML) presents varying prognoses in pediatric and adult patients, with
+dysregulated m6A-related genes playing a pivotal role in its pathogenesis. Through an analysis of
+single-cell RNA sequencing data from the Gene Expression Omnibus, we uncovered distinct patterns of
+m6A gene expression specific to pediatric AML cases. Additionally, we devised a Lasso risk
+regression model to evaluate prognosis within different AML subsets, showcasing the clinical utility
+of m6A-related genes in predicting AML outcomes. Our study underscores the unique and significant
+m6A gene expression profiles observed in pediatric AML, emphasizing their potential relevance in
+prognostic assessment. The demonstrated effectiveness of the Lasso risk regression model further
+underscores the importance of m6A-related genes as valuable predictors of AML outcomes. These
+findings not only unveil novel insights into the prognostic implications of m6A-related genes in
+pediatric AML but also advocate for their application as prognostic markers to enhance personalized
+treatment strategies in both pediatric and adult AML populations.",Hematologic Diseases
+40232841,Precision screening facilitates clinical classification of BRCA2-PALB2 binding variants with benign and pathogenic functional effects.,The Journal of clinical investigation (J Clin Invest),"Decoding the clinical impact of genetic variants is particularly important for precision medicine in
+cancer. Genetic screening of mainly breast and ovarian cancer patients has identified numerous
+BRCA1/BRCA2 'variants of uncertain significance' (VUS) that remain unclassified due to a lack of
+pedigrees and functional data.  Here, we used CRISPR-Select - a technology that exploits unique
+inbuilt controls at the endogenous locus - to assess 54 rare ClinVar VUS located in the
+PALB2-binding domain (PBD) of BRCA2. Variant deleteriousness was examined in the absence and
+presence of PARPi, Cisplatin, or Mitomycin C.  Marked functional deficiency was observed for
+variants in the exon 2-donor splice region (A22 = (c.66A>C), A22 = (c.66A>G), A22 = (c.66A>T), and
+D23H) and Trp31 amino acid (W31G, W31L, and W31C), both critical for BRCA2 function. Moreover, T10K
+and G25R resulted in an intermediate phenotype, suggesting these variants are hypomorphic in nature.
+Combining our functional results with the latest ClinGen BRCA1/2 Variant Curation Expert Panel
+recommendations, we could classify 49 of the 54 VUS as either likely benign (n = 45) or likely
+pathogenic (n = 4).  Hence, CRISPR-Select is an important tool for efficient variant clinical
+classification. Application of this technology in the future will ultimately improve patient care.
+Danish Cancer Society, Novo Nordisk Foundation, Sygeforsikring Danmark, Børnecancerfonden, Neye-
+Fonden, Roche, Novartis, Pfizer, AstraZeneca, MSD, and Daiichi Sankyo Europe GmbH.","Breast cancer, DNA repair, Genetic diseases, Genetics, Oncology"
+40157909,A novel clinically relevant antagonistic interplay between prolactin and oncogenic YAP-CCN2 pathways as a differentiation therapeutic target in breast cancer.,Cell death & disease (Cell Death Dis),"Cellular differentiation limits cellular plasticity allowing cells to attain their specialized
+functional characteristics and phenotypes, whereas loss of differentiation is a hallmark of cancer.
+Thus, characterizing mechanisms underlying differentiation is key to discover new cancer
+therapeutics. We report a novel functional antagonistic relationship between the prolactin
+(PRL)/prolactin receptor (PRLR) differentiation pathway and YAP-CCN2 oncogenic pathway in normal
+mammary epithelial cells and breast cancer cells that is essential for establishing/maintaining
+acinar morphogenesis, cell-cell junctions and the intracellular localization of apical-basal
+polarity protein complexes (Par, Crumb and Scrib). Importantly, using CRISPR knockout of the PRLR in
+MCF7, HR+ breast cancer cells, further revealed that the negative relationship between PRL/PRLR
+pathway and YAP-CCN2 pathway is critical in suppressing luminal-to-basal stem-like lineage
+plasticity. Furthermore, the clinical relevance of this interplay was evaluated using bioinformatics
+approaches on several human datasets, including samples from normal breast epithelium, breast
+cancer, and 33 other cancer types. This analysis revealed a positive correlation between PRLR and
+the YAP suppressor Hippo pathway and a co-expression gene network driving favourable patients'
+survival outcomes in breast cancer. The therapeutic potential of this interplay was also evaluated
+in vitro using MDA-MB-231 cells, a preclinical model of human triple-negative breast cancer, where
+treatment with PRL and Verteporfin, an FDA-approved pharmacological YAP-inhibitor, alone or their
+combination suppressed the expression of the mesenchymal marker vimentin and the stem cell marker
+CD44 as well as reduced their Ki67 proliferative marker expression. Collectively, our results
+emphasize the pro-differentiation role of PRL/PRLR pathway in mammary and breast cancer cells and
+highlight that promoting PRL/PRLR signaling while inhibiting the YAP-CCN2 oncogenic pathway can be
+exploited as a differentiation-based combination therapeutic strategy in breast cancer.",
+40242216,CRISPR-dependent base editing as a therapeutic strategy for rare monogenic disorders.,Frontiers in genome editing (Front Genome Ed),"Rare monogenic disorders are caused by mutations in single genes and have an incidence rate of less
+than 0.5%. Due to their low prevalence, these diseases often attract limited research and commercial
+interest, leading to significant unmet medical needs. In a therapeutic landscape where treatments
+are targeted to manage symptoms, gene editing therapy emerges as a promising approach to craft
+curative and lasting treatments for these patients, often referred to as ""one-and-done""
+therapeutics. CRISPR-dependent base editing enables the precise correction of genetic mutations by
+direct modification of DNA bases without creating potentially deleterious DNA double-strand breaks.
+Base editors combine a nickase version of Cas9 with cytosine or adenine deaminases to convert C·G to
+T·A and A·T to G·C, respectively. Together, cytosine (CBE) and adenine (ABE) base editors can
+theoretically correct ∼95% of pathogenic transition mutations cataloged in ClinVar. This mini-review
+explores the application of base editing as a therapeutic approach for rare monogenic disorders. It
+provides an overview of the state of gene therapies and a comprehensive compilation of preclinical
+studies using base editing to treat rare monogenic disorders. Key considerations for designing base
+editing-driven therapeutics are summarized in a user-friendly guide for researchers interested in
+applying this technology to a specific rare monogenic disorder. Finally, we discuss the prospects
+and challenges for bench-to-bedside translation of base editing therapies for rare monogenic
+disorders.","CRISPR-based therapeutics, base editing, gene therapy, mutation correction, rare monogenic disease"
+40225866,Integrating Single-Cell and Bulk RNA Sequencing Data to Explore Sphingolipid Metabolism Molecular Signatures in Ovarian Cancer Prognosis: an Original Study.,International journal of medical sciences (Int J Med Sci),"<b>Background:</b> Ovarian cancer (OC) is the deadliest malignant tumor in the female reproductive
+system. Sphingolipid metabolism (SM) is crucial for cellular function and has been linked to OC
+progression. Dysregulation of sphingolipid pathways contributes to tumor growth, chemoresistance,
+and metastasis in OC. Currently, investigations into the relationship between sphingolipid-related
+genes (SRGs) and OC prognosis in their initial stages. Our study aimed to develop a novel molecular
+subtyping based on SRGs and construct a signature to predict the prognosis of patients with OC,
+immune cell infiltration characteristics, and chemotherapy sensitivity. <b>Methods:</b> Bulk and
+single-cell RNA-sequencing data of OC was analyzed primarily from the TCGA and GEO databases. The
+gene set related to the sphingolipid pathway (hsa00600) was selected from the SM pathway, and the
+enrichment of SRGs was analyzed in the annotated single-cell sequencing data. The Scanpy function
+was used to score the gene features of each cell and further identify differentially expressed
+genes. By intersecting with the genes most closely related to SM activity identified through
+Weighted Gene Co-expression Network Analysis (WGCNA) based on bulk RNA sequencing data, and after
+performing univariate COX, multivariate COX and LASSO regression, three SRGs were identified.
+Subsequently, the SRGs-related prognostic signature was constructed. The analysis was further
+extended to clinical feature correlation, GSEA, tumor microenvironment (TME) analysis and
+chemotherapy sensitivity analysis. Finally, the expression and function of the key gene GBP5 in the
+model were validated through <i>in vitro</i> experiments. <b>Results:</b> Compared to other sites,
+SRG scores were highest in ascites, and among different cell types, SRG scores were highest in T
+cells. By integrating scRNA-seq and bulk RNA-seq analysis, three SRGs (C5AR1, GBP5, and MARCHF3)
+were ultimately selected to develop a prognostic model for SRGs. In this model, patients with higher
+risk scores had shorter overall survival, which was validated in the testing cohort. Immune
+infiltration analysis revealed that the risk score was negatively correlated with the abundance of
+CD8+ T cell infiltration and positively correlated with the abundance of M2 macrophage infiltration.
+Chemotherapy sensitivity analysis showed that the high-risk group exhibited increased resistance to
+Oxaliplatin, Gemcitabine, and Sorafenib. <i>In vitro</i>, we demonstrated that knockdown of the
+protective gene GBP5 in HEYA8 and SKOV3 cells enhanced cell viability, proliferation, and
+invasiveness, reduced apoptosis, and increased IC50 values for chemotherapy drugs.
+<b>Conclusion:</b> Our model effectively identifies high-risk patients and provides a reference for
+prognosis prediction using SRG signature. Moreover, hub gene GBP5 acts as a tumor inhibitory factor
+and regulates the chemosensitivity of oxaliplatin, gemcitabine, and sorafenib in OC.","Chemotherapy drug sensitivity, GBP5, Immune infiltration, Ovarian cancer, Sphingolipid metabolism"
+40163809,"Efficacy of a Novel BCL-xL Degrader, DT2216, in Preclinical Models of JAK2-mutated Post-MPN AML.",Blood (Blood),"Acute myeloid leukemia (AML) that evolves from myeloproliferative neoplasm (MPN) is known as post-
+MPN AML. Current treatments don't significantly extend survival beyond 12 months. BCL-xL has been
+found to be overexpressed in leucocytes from MPN patients, making it a potential therapeutic target.
+We investigated the role of BCL-xL in post-MPN AML and tested the efficacy of DT2216, a platelet-
+sparing BCL-xL proteolysis-targeting chimera (PROTAC), in preclinical models of post-MPN AML. We
+found that BCL2L1, the gene encoding BCL-xL, is expressed at higher levels in post-MPN AML patients
+compared to those with de novo AML. Single-cell multi-omics analysis revealed that leukemia cells
+harboring both MPN-driver and TP53 mutations exhibited higher BCL2L1 expression, elevated scores for
+leukemia stem cell, megakaryocyte development, and erythroid progenitor than wild-type cells. BH3
+profiling confirmed a strong dependence on BCL-xL in post-MPN AML cells. DT2216 alone, or in
+combination with standard AML/MPN therapies, effectively degraded BCL-xL, reduced the apoptotic
+threshold, and induced apoptosis in post-MPN AML cells. DT2216 effectively eliminated viable cells
+in JAK2-mutant AML cell lines, induced pluripotent stem cell-derived hematopoietic progenitor cells
+(iPSC-HPCs), primary samples, and reduced tumor burden in cell line-derived xenograft model in vivo
+by degrading BCL-xL. DT2216, either as a single agent or in combination with azacytidine,
+effectively inhibited the clonogenic potential of CD34+ leukemia cells from post-MPN AML patients.
+In summary, our data indicate that the survival of post-MPN AML is BCL-xL dependent, and DT2216 may
+offer therapeutic advantage in this high-risk leukemia subset with limited treatment options.",
+40165206,CRISPR screens with trastuzumab emtansine in HER2-positive breast cancer cell lines reveal new insights into drug resistance.,Breast cancer research : BCR (Breast Cancer Res),"Trastuzumab emtansine (T-DM1) is an antibody-drug conjugate that is an effective therapy for
+HER2-positive breast cancer; however, its efficacy is limited by drug resistance. While multiple
+mechanisms of resistance have been proposed, these are not yet well understood. Greater
+understanding of T-DM1 sensitivity and resistance could provide new combination strategies to
+overcome resistance or predictive biomarkers to guide therapy.  We have conducted CRISPR/Cas9
+functional genomics modifier screens in HER2-positive breast cancer cell lines to allow for unbiased
+discovery of T-DM1 sensitivity and resistance genes. Whole-genome knockout screens were carried out
+in MDA-MB-361 and MDA-MB-453 cells treated with T-DM1 and its payload cytotoxin DM1. Hits were
+validated in secondary T-DM1 screens using a focused single-guide RNA (sgRNA) library and
+subsequently by individual gene knockout.  The whole-genome CRISPR screens with T-DM1 and DM1
+identified 599 genes as potential modifiers of T-DM1 sensitivity and resistance. Of these, 17 genes
+were significantly enriched and 3 genes depleted at P < 0.001 in either or both MDA-MB-361 and MDA-
+MB-453 libraries in the secondary screens. Among the top hits, were known T-DM1 sensitivity genes
+ERBB2 and SLC46A3, in addition to negative regulators of mTOR complex 1: TSC1 and TSC2. MDA-MB-453
+clones with knockout of TSC1 or partial knockout of TSC2 were more resistant to T-DM1 than wild type
+cells in competition growth assays and to T-DM1 and other HER2 targeting therapies (T-DXd, lapatinib
+and neratinib) in growth inhibition assays, and had increased internalisation of T-DM1 at 6 h. T-DM1
+and the mTOR inhibitor everolimus demonstrated synergistic activity at inhibiting cell proliferation
+at multiple T-DM1 concentrations across four HER2-positive breast cancer cell lines.  Our CRISPR
+screening approach with T-DM1 in HER2-positive breast cancer cell lines identified genes not
+previously implicated in T-DM1 sensitivity or resistance, including TSC1 and TSC2. These genes may
+inform new strategies to enhance T-DM1 therapy in the clinic.","Antibody-drug conjugates, CRISPR/Cas9, Drug resistance, Functional genomics, HER2-positive breast cancer, T-DM1, TSC1, TSC2"
+40242591,Engineered Metal-Organic Frameworks for Targeted CRISPR/Cas9 Gene Editing.,ACS pharmacology & translational science (ACS Pharmacol Transl Sci),"The development of precise and efficient delivery systems is pivotal for advancing CRISPR/Cas9 gene-
+editing technologies, particularly for therapeutic applications. Engineered metal-organic frameworks
+(MOFs) have emerged as a promising class of inorganic nonviral vectors, offering unique advantages
+such as tunable porosity, high cargo-loading capacity, and biocompatibility. This review explores
+the design and application of MOF-based nanoplatforms tailored for the targeted delivery of
+CRISPR/Cas9 components, aiming to enhance gene-editing precision and efficiency. By incorporating
+stimuli-responsive linkers and bioactive ligands, these MOFs enable controlled release of
+CRISPR/Cas9 payloads at the target site. Comparative discussions demonstrate superior performance of
+MOFs over conventional nonviral systems in terms of stability, transfection efficiency, and reduced
+off-target effects. Additionally, the intracellular trafficking mechanisms and the therapeutic
+potential of these platforms in preclinical models are discussed. These findings highlight the
+transformative potential of MOF-based delivery systems in overcoming the challenges associated with
+gene-editing technologies, such as immunogenicity and cytotoxicity, paving the way for their
+application in precision medicine. This review provides a blueprint for the integration of
+nanotechnology and genome editing, advancing the frontier of nonviral therapeutic delivery systems.",
+40121237,MCL‑1 safeguards activated hair follicle stem cells to enable adult hair regeneration.,Nature communications (Nat Commun),"Hair follicles cycle through expansion, regression and quiescence. To investigate the role of MCL‑1,
+a BCL‑2 family protein with anti‑apoptotic and apoptosis‑unrelated functions, we delete Mcl‑1 within
+the skin epithelium using constitutive and inducible systems. Constitutive Mcl‑1 deletion does not
+impair hair follicle organogenesis but leads to gradual hair loss and elimination of hair follicle
+stem cells. Acute Mcl‑1 deletion rapidly depletes activated hair follicle stem cells and completely
+blocks depilation‑induced hair regeneration in adult mice, while quiescent hair follicle stem cells
+remain unaffected. Single‑cell RNA‑seq profiling reveals the engagement of P53 and DNA mismatch
+repair signaling in hair follicle stem cells upon depilation‑induced activation. Trp53 deletion
+rescues hair regeneration defects caused by acute Mcl‑1 deletion, highlighting a critical interplay
+between P53 and MCL‑1 in balancing proliferation and death. The ERBB pathway plays a central role in
+sustaining the survival of adult activated hair follicle stem cells by promoting MCL‑1 protein
+expression. Remarkably, the loss of a single Bak allele, a pro‑apoptotic Bcl‑2 effector gene,
+rescues Mcl‑1 deletion‑induced defects in both hair follicles and mammary glands. These findings
+demonstrate the pivotal role of MCL‑1 in inhibiting proliferation stress‑induced apoptosis when
+quiescent stem cells activate to fuel tissue regeneration.",
+40184463,Atf3 controls transitioning in female mitochondrial cardiomyopathy as identified by spatial and single-cell transcriptomics.,Science advances (Sci Adv),"Oxidative phosphorylation defects result in now intractable mitochondrial diseases (MD) with cardiac
+involvement markedly affecting prognosis. The mechanisms underlying the transition from compensation
+to dysfunction in response to metabolic deficiency remain unclear. Here, we used spatially resolved
+transcriptomics and single-nucleus RNA sequencing (snRNA-seq) on the heart of a patient with
+mitochondrial cardiomyopathy (MCM), combined with an MCM mouse model with cardiac-specific Ndufs6
+knockdown (FS6KD). Cardiomyocytes demonstrated the most heterogeneous expression landscape among
+cell types caused by metabolic perturbation, and pseudotime trajectory analysis revealed dynamic
+cellular states transitioning from compensation to severe compromise. This progression coincided
+with the transient up-regulation of a transcription factor, <i>ATF3</i>. Genetic ablation of
+<i>Atf3</i> in FS6KD corroborated its pivotal role, effectively delaying cardiomyopathy progression
+in a female-specific manner. Our findings highlight a fate-determining role of <i>ATF3</i> in female
+MCM progression and that the latest transcriptomic analysis will help decipher the mechanisms
+underlying MD progression.",
+40241195,Drosophila architectural proteins M1BP and Opbp cooperatively form the active promoter of a ribosomal protein gene.,Epigenetics & chromatin (Epigenetics Chromatin),"In Drosophila, architectural proteins are frequently found in promoters, including those of genes
+with extremely high expression levels, such as ribosomal protein genes (RPGs). The involvement of
+several of these proteins in gene regulation in Drosophila has been shown, but the exact mechanisms
+of their possible cooperative action have not been fully elucidated.  In this study we dissected the
+contribution of the architectural proteins Opbp and M1BP, which are co-localized at several RPG
+promoters near the transcription start site, to promoter functioning. We found that Opbp has two
+domains that directly interact with CP190, Putzig (Pzg), and Chromator (Chro) proteins, the
+cofactors which are required for the activation of housekeeping (hk) gene promoters. These domains
+have redundant functions in vivo and can tether the cofactors forming open chromatin regions when
+are artificially recruited to the ""closed"" chromatin. Additionally, we observed interactions between
+M1BP and the same cofactors. In the transgene assay, the transcription driven by the 192-bp part of
+Rpl27A RPG promoter is fully dependent on the presence of at least one Opbp or M1BP binding site and
+it is sufficient for the very high activity of this promoter integrated into the hk gene cluster and
+moderate expression outside the cluster, while presence of both sites even more facilitates
+transcription.  This study demonstrates that different architectural proteins can work independently
+and in cooperation and fulfill partially redundant functions in the activation of RPG promoters.","Architectural С2Н2 proteins, CP190, Chriz, Chro, Chromator, Housekeeping genes, Putzig, Ribosomal protein genes, Z4, Zinc-finger proteins"
+40241992,Gene Editing for Duchenne Muscular Dystrophy: From Experimental Models to Emerging Therapies.,Degenerative neurological and neuromuscular disease (Degener Neurol Neuromuscul Dis),"The CRISPR system has emerged as a ground-breaking gene-editing tool, offering promising therapeutic
+potential for Duchenne muscular dystrophy (DMD), a severe genetic disorder affecting approximately 1
+in 5000 male births globally. DMD is caused by mutations in the dystrophin gene, which encodes a
+critical membrane-associated protein essential for maintaining muscle structure, function and
+repair. Patients with DMD experience progressive muscle degeneration, loss of ambulation,
+respiratory insufficiency, and cardiac failure, with most succumbing to the disease by their third
+decade of life. Despite the well-characterized genetic basis of DMD, curative treatments- such as
+exon skipping therapies, micro-dystrophin, and steroids- remain elusive. Recent preclinical studies
+have demonstrated the promise of CRISPR-based approaches in restoring dystrophin expression across
+various models, including human cells, murine systems, and large animal models. These advancements
+highlight the potential of gene editing to fundamentally alter the trajectory of the disease.
+However, significant challenges persist, including immunogenicity, off-target effects, and limited
+editing efficiency, which hinder clinical translation. This review provides a comprehensive analysis
+of the latest developments in CRISPR-based therapeutic strategies for DMD. It emphasizes the need
+for further innovation in gene-editing technologies, delivery systems, and rigorous safety
+evaluations to overcome current barriers and harness the full potential of CRISPR/Cas as a durable
+and effective treatment for DMD.","CRISPR, DMD, Duchenne muscular dystrophy, dystrophin, gene editing"
+40233761,Harnessing human iPSC-microglia for CNS-wide delivery of disease-modifying proteins.,Cell stem cell (Cell Stem Cell),"Widespread delivery of therapeutic proteins to the brain remains challenging. To determine whether
+human induced pluripotent stem cell (iPSC)-microglia (iMG) could enable brain-wide and pathology-
+responsive delivery of therapeutic cargo, we utilized CRISPR gene editing to engineer iMG to express
+the Aβ-degrading enzyme neprilysin under control of the plaque-responsive promoter, CD9. To further
+determine whether increased engraftment enhances efficacy, we utilized a CSF1R-inhibitor resistance
+approach. Interestingly, both localized and brain-wide engraftment in Alzheimer's disease (AD) mice
+reduced multiple biochemical measures of pathology. However, within the plaque-dense subiculum,
+reductions in plaque load, dystrophic neurites, and astrogliosis and preservation of neuronal
+density were only achieved following widespread microglial engraftment. Lastly, we examined chimeric
+models of breast cancer brain metastases and demyelination, demonstrating that iMG adopt diverse
+transcriptional responses to differing neuropathologies, which could be harnessed to enable
+widespread and pathology-responsive delivery of therapeutics to the CNS.","Alzheimer’s disease, CRISPR, iMG, iPSC, immune cell therapy, microglia, microglia replacement, neprilysin, neurodegeneration, payload delivery"
+40184611,Enhanced the Trans-Cleavage Activity of CRISPR-Cas12a Using Metal-Organic Frameworks as Stimulants for Efficient Electrochemical Sensing of Circulating Tumor DNA.,"Advanced science (Weinheim, Baden-Wurttemberg, Germany) (Adv Sci (Weinh))","Continued development of clustered regularly interspaced short palindromic repeats (CRISPR)-powered
+biosensing system on the electrochemical interface is vital for accurate and timely diagnosis in
+clinical practice. Herein, an electrochemical biosensor based on manganese metal-organic frameworks
+(MOFs)-enhanced CRISPR (MME-CRISPR) is proposed that enables the efficient detection of circulating
+tumor DNA (ctDNA). In this design, customized enzyme stimulants (Mn<sup>2+</sup>) are co-assembled
+with Cas12a/crRNA to form enzyme-MOF composites, which can be released quickly under mild
+conditions. The MOFs-induced proximity effect can continuously provide adequate Mn<sup>2+</sup> to
+sufficiently interact with Cas12a/crRNA during the release process, enhancing the trans-cleavage
+activity of complex available for biosensor construction. The MOFs-based enzyme biocomposites also
+afford efficient protection against various external stimulus. It is demonstrated that the developed
+biosensor can achieve ultrasensitive detection of epidermal growth factor receptor L858R mutation in
+ctDNA with a low detection limit of 0.28 fm without pre-amplification. Furthermore, the engineered
+mismatch crRNA enables the biosensor based on MME-CRISPR to detect single nucleotide variant with a
+high signal-to-noise ratio. More importantly, it has been successfully used to detect the targets in
+clinical practice, requiring low-dose samples and a short time. This strategy is believed to shed
+new light on the applications of cancer diagnosis, treatment, and surveillance.","CRISPR‐based diagnostics, Cas12a/crRNA, circulating tumor DNA, electrochemical biosensor, metal‐organic framework"
+40179430,Identification of key genes related to cancer associated fibroblasts in neuroblastoma: A comprehensive bioinformatics approach.,Cancer biomarkers : section A of Disease markers (Cancer Biomark),"BackgroundNeuroblastoma (NB) is one of the most common and aggressive pediatric solid tumors,
+characterized by a highly complex pathogenesis. Within the tumor microenvironment (TME), cancer-
+associated fibroblasts (CAFs) constitute a major cell population and play a pivotal role in
+facilitating communication among various stromal cells. However, the specific functions and
+contributions of CAFs in NB remain incompletely understood.ObjectiveTo investigate the impact of
+CAFs-related genes on the prognosis of NB, we developed a risk model to facilitate the diagnosis and
+prognostication of patients.MethodsIn this study, a CAFs gene prognostic model for NB was
+established using single-cell analysis and genomic sequencing data. The effectiveness of this
+prognostic model was subsequently evaluated through the development of a nomogram, immune
+infiltration analysis, drug prediction, and gene set enrichment analysis. Ultimately, the expression
+levels of the identified key genes were experimentally validated in NB tissues.ResultsA novel
+prognostic model for CAFs related to NB prognosis was established through single-cell analysis and
+transcriptome dataset analysis. The prognosis of the high-risk group was worse than that of the low-
+risk group. The validity of the model was confirmed by nomogram, drug sensitivity analysis, and
+immune infiltration methods. Finally, the high expression of the key gene STEAP2 in NB tissues was
+verified by experiments.ConclusionsThe study introduces a new predictive model that uses CAF markers
+to forecast the prognosis of NB. STEAP2 plays a key role in identifying high-risk neuroblastoma and
+may become a potential therapeutic target for NB.","STEAP2, Tumor microenvironment, cancer-associated fibroblasts, neuroblastoma, prognosis model"
+40121577,Cell death pathway regulation by fatty acid metabolism-related genes in neuroblastoma: a multi-omics analysis identifying CHD5 as a novel biomarker.,Discover oncology (Discov Oncol),"Neuroblastoma in children is commonly found as an extracranial solid tumor with poor prognosis in
+high-risk cases impeding successful treatment. While dysregulated cell death mechanisms and
+metabolic reprogramming are hallmarks of cancer progression, the interplay between fatty acid
+metabolism and cell death pathway regulation in neuroblastoma remains incompletely understood.
+Identifying molecular subtypes influenced by fatty acid metabolism were built by consensus
+clustering analysis. Independent prognostic genes were identified through random survival forest
+analysis, acquiring a novel risk signature. Risk signatures were validated internally and
+externally, and their independent prognostic value, immune landscape, and drug susceptibility were
+explored. The study systematically analyzed correlations between signature genes and seven major
+cell death pathways (apoptosis, pyroptosis, ferroptosis, autophagy, necroptosis, cuproptosis, and
+disulfidptosis), encompassing over 1,200 genes to comprehensively explore the intricate
+relationships between these molecular signatures and diverse cell death mechanisms. Gene Set
+Enrichment Analysis (GSEA) was performed to assess pathway-level associations. Utilizing a single-
+cell dataset of neuroblastoma samples, cells were categorized and labeled based on UMAP analysis.
+Feature map visualization was employed to display the expression level and allocation of specific
+genes across various cell populations. Validation of CHD5 expression in NB cells and tissues was
+confirmed through Western blotting and immunohistochemical staining.  The study identified 42 fatty
+acid metabolism key enzyme genes whose expression was significantly different within high-risk and
+non-high-risk neuroblastoma patients, by which acquiring two distinct prognostic clusters associated
+with fatty acid metabolism. A machine learning approach was used to select 4 hub genes (CHD5, TP63,
+XKR4, and CTAG1A) for the establishment of a fatty acid metabolism prognostic risk model. Cell death
+pathway analysis revealed that TP63 exhibited the strongest correlations across multiple death
+pathways, particularly with necroptosis (r = 0.684, p = 2.80e-23) and pyroptosis (r = 0.647,
+p = 3.12e-20), while XKR4 showed moderate correlations with autophagy (r = 0.398, p = 2.09e-07) and
+CHD5 displayed selective associations. High risk score and low risk score groups displayed notable
+variations in the immune microenvironment, characterized by reduced immune cell infiltration in the
+high group leading to immune escape, and conversely, heightened responsiveness of the low group to
+immune checkpoint blockade therapy. Single-cell dataset analysis highlighted significant expression
+of CHD5 in specific cell populations, suggesting its potential as a marker gene for neuroblastoma.
+Immunohistochemical staining revealed varying levels of CHD5 expression across different clinical
+stages of neuroblastoma, with decreased deposition observed as staging advances. Functionally, CHD5
+expression was found to inhibit proliferation, migration, and invasion of neuroblastoma cells.  The
+developed fatty acid metabolism prognostic risk model underscores the significance of fatty acids in
+neuroblastoma prognosis and immune landscape, thereby facilitating the optimization of chemotherapy
+and immunotherapy strategies for this disease. The comprehensive analysis of cell death pathways
+revealed distinct regulatory mechanisms of signature genes, particularly highlighting TP63's central
+role in coordinating multiple cell death processes. CHD5, as an identified gene inhibiting the
+proliferation, invasion and metastasis of neuroblastoma cells, serves as a novel tumor biomarker.","CHD5, Cell death, Fatty acid metabolism, Neuroblastoma, Prognostic model"
+40241135,ADAR1-high tumor-associated macrophages induce drug resistance and are therapeutic targets in colorectal cancer.,Molecular cancer (Mol Cancer),"Colorectal cancer (CRC) is considered the third most common type of cancer worldwide. Tumor-
+associated macrophages (TAMs) have been shown to promote drug resistance. Adenosine-to-inosine RNA-
+editing, as regulated by adenosine deaminase acting on RNA (ADAR), is a process that induces the
+posttranscriptional modification of critical oncogenes. The aim of this study is to determine
+whether the signals from cancer cells would induce RNA-editing in macrophages.  The effects of RNA-
+editing on phenotypes in macrophages were analyzed using clinical samples and in vitro and in vivo
+models.  The intensity of the RNA-editing enzyme ADAR1 (Adenosine deaminase acting on RNA 1) in
+cancer and mononuclear cells indicated a strong positive correlation between the nucleus and
+cytoplasm. The ADAR1-positive mononuclear cells were positive for CD68 and CD163, a marker for M2
+macrophages. Cancer cells transport pro-inflammatory cytokines or ADAR1 protein directly to
+macrophages via the exosomes, promoting RNA-editing in AZIN1 (Antizyme Inhibitor 1) and GLI1
+(Glioma-Associated Oncogene Homolog 1) and resulting in M2 macrophage polarization. GLI1 RNA-editing
+in the macrophages induced by cancer cells promotes the secretion of SPP1, which is supplied to the
+cancer cells. This activates the NFκB pathway in cancer cells, promoting oxaliplatin resistance.
+When the JAK inhibitors were administered, oncogenic RNA-editing in the macrophages was suppressed.
+This altered the macrophage polarization from M2 to M1 and decreased oxaliplatin resistance in
+cancer cells.  This study revealed that ADAR1-high TAMs are crucial in regulating drug resistance in
+CRC and that targeting ADAR1 in TAMs could be a promising treatment approach for overcoming drug
+resistance in CRC.","Biomarker, Chemoresistance, Colorectal cancer, Macrophage, RNA-editing"
+40226614,Transcriptomic signatures in peripheral CD4<sup>+</sup>T-lymphocytes may reflect melanoma staging and immunotherapy responsiveness prior to ICI initiation.,Frontiers in immunology (Front Immunol),"Promoting adaptive immunity with ICIs has drastically improved melanoma prognosis, but not for all
+patients. Some cases relapse in the first few months, while others keep durable benefit, even after
+immunotherapy discontinuation. To identify cellular/molecular signatures in peripheral blood that
+could differentiate advanced from metastatic melanoma and predict dynamics for primary/secondary
+immune escape, we examined 100 consecutive patients with stage III/IV melanoma scheduled to start
+ICIs.  At melanoma diagnosis, a multiparameter flow cytometric analysis and purification scheme
+using standard conjugated antibodies were performed for all individuals prior to ICI initiation. In
+each stage(III/IV) according to their RFS/PFS, we retrospectively selected the cases with the
+clearest clinical outcomes and focused our analysis on the extreme responders(n=7) and non-
+responders(n=7) to characterize the transcriptomes of circulating CD4<sup>+</sup>T-cells by bulk
+RNA-seq, Differential Expression Analysis(DEA)and Gene Ontology(GO)enrichment analysis. Based on our
+selected patient cohort, we examined for differentially expressed genes(DEGs)and key-pathways that
+appear preferentially activated in stage III vs. IV melanoma, and in long vs. short immunotherapy
+responders.  Although circulating immune-cells did not numerically differ in both sets of
+analysis(staging and ICI responsiveness), DEA and GO data showed that patients could be clustered
+separately, identifying 189vs.92 DEGs in stage IV/III and 101vs.47 DEGs in early progressors/long
+responders. These DEGs were functionally implicated in distinct pathways. For metastatic cases:
+inflammatory response(logp-value=-9.2:ADGRE5/2,CYBA,GRN,HMOX1,IRF5,ITGAM), adaptive immunity(logp-
+value=-7.7:CD1C,CD74,CYBB,NCF2,CTSA,S100A8/9,BCL3,FCER1G), T-cell activation(logp-
+value=-6.3:BCL3,CD1C,CD74,FCER1G,FGL2)and lipid metabolism/catabolism(logp-
+value=-2.5/-2.6:ARF3,GPX1,MVD,OCRL,PCCB,CTSA,PNPLA2,NAGLU,GBA2,ABHD4); while in early-progressors to
+ICIs: immune effector processing(logp-value=-13.7:BCL6,FGR,HLA-DQA1/DQB1,HLA-DRA,HLA-
+DRB1/DRB5,NKG7,SLC11A1,TYROBP,SPON2,HAVCR2),PD-1(logp-value=-10.2:HLA-DQA1/DQB1,HLA-DRA,HLA-
+DRB1/DRB5)and IFN signaling(logp-value=-8.5: HLA-DQA1/DQB1,HLA-DRA,HLA-
+DRB1/DRB5,NCAM1,IFITM3),positive regulation of T-cell activation(logp-value=-7.7:BCL6,HLA-
+DQA1/DQB1,HLA-DRA,HLA-DRB1/DRB5,SASH3,HAVCR2)and CD28 co-stimulation(logp-value=-10.3:HLA-
+DQA1/DQB1,HLA-DRA,HLA-DRB1/DRB5), supporting an immune-mediated behavior.  Specific pathways and
+marker genes in the peripheral CD4<sup>+</sup>T-cells may predetermine melanoma staging and
+immunotherapy resistance.","CD4+T-cells, bulk RNA-seq, differentially expressed genes, immune checkpoint inhibitors, immunotherapy, resistance"
+39908652,Blocking MIF secretion enhances CAR T-cell efficacy against neuroblastoma.,"European journal of cancer (Oxford, England : 1990) (Eur J Cancer)","Chimeric antigen receptor (CAR) T-cell therapy is a promising and innovative cancer therapy.
+However, immunosuppressive tumor microenvironments (TME) limit T cell persistence and durable
+efficacy. Here, we aimed to identify and target immunosuppressive factors in the TME of
+neuroblastoma, a pediatric extracranial solid tumor, to improve CAR-T efficacy.  Immunosuppressive
+factors were identified using a multi-omics approach, including single-cell RNA sequencing (scRNA-
+seq) of 24 neuroblastoma tumors, published bulk-RNA sequencing datasets, and mass-spectrometry of
+patient-derived tumoroid models. Candidate targets were validated with functional assays in vitro
+and in vivo. Protein degradation of the top immunosuppressive target by PROTAC technology was used
+to evaluate the effect on CAR T-cell activity.  ScRNA-seq revealed 13 immunosuppressive interactions
+in the TME of neuroblastoma, two effectors of which, Midkine (MDK) and Macrophage Migration
+Inhibitory Factor (MIF), were validated as candidate targets across multiple published datasets.
+Both factors were among the top 6 % of most abundantly secreted factors by patient-derived tumoroid
+models, substantiating their potential relevance in the TME. In vitro and in vivo functional assays
+confirmed MIF to be a potent inhibitor of CAR T-cell activation and killing capacity. To translate
+these findings into a potentially clinically applicable treatment, we explored MIF targeting by
+PROTAC technology, which significantly enhanced activation of CAR T-cells targeting GPC2 and B7-H3.
+By defining the immunosuppressive effects of neuroblastoma's TME on CAR T-cell efficacy, revealing
+the pivotal role of MIF, we provide an analytic pipeline and therapeutic strategy for improving
+adoptive cell therapies for this pediatric malignancy and potentially other solid tumors.","CAR T-cell therapy, Immunosuppressive tumor microenvironment, MIF, Neuroblastoma, PROTAC"
+40025479,Association between cancer-associated fibroblasts and prognosis of neoadjuvant chemoradiotherapy in esophageal squamous cell carcinoma: a bioinformatics analysis based on single-cell RNA sequencing.,Cancer cell international (Cancer Cell Int),"Esophageal squamous cell carcinoma (ESCC) is a prevalent and aggressive subtype of esophageal
+cancer, posing a significant mortality and economic burden, especially in East and Southeast Asia.
+Current therapeutic strategies have limitations in improving patient survival, particularly
+regarding disease progression and resistance. This study aimed to investigate the impact of
+neoadjuvant chemoradiotherapy (NCRT) on the ESCC microenvironment.  We utilized single-cell RNA
+sequencing to systematically characterize the tumor and cancer-associated fibroblasts (CAFs)
+subtypes. Marker genes of myofibroblastic CAFs (myCAFs) were employed to establish a prognostic
+model and verify its application in other datasets. Other experiments were conducted on clinical
+samples to explore potential ESCC risk-related genes.  Our bioinformatics and statistical analyses
+revealed an increased proportion of fibroblasts and epithelial cells in NCRT and identified the
+Ep_c1 subtype associated with a better prognosis. Further results indicated a complex communication
+network between Ep_c1 and myCAFs. The top 30 marker genes of myCAFs were used to construct a
+prognostic signature with a significant response to immunotherapy. Finally, experiments identified
+Complement C1s subcomponent (C1S), Decorin (DCN), and Neuroblastoma suppression of tumorigenicity 1
+(NBL1) as potential ESCC risk-related genes.  Our findings highlight the dynamic alterations in the
+post-NCRT ESCC microenvironment and provide a foundation for the development of personalized
+treatment and immunotherapeutic approaches. Future studies are warranted to further validate these
+findings and explore their clinical implications.","Cancer-associated fibroblasts, Esophageal squamous cell carcinoma, Immune landscape, Neoadjuvant chemoradiotherapy, Prognosis, scRNA-seq"
+40240564,"Characterization and genome analysis of the novel virulent Burkholderia phage Bm1, which is active against pan-drug-resistant Burkholderia multivorans.",Archives of virology (Arch Virol),"The escalating challenges of antibiotic resistance in bacterial pathogens have necessitated the
+exploration of alternative therapeutic strategies. Among these, bacteriophage therapy has regained
+attention as a promising approach to combat multidrug-resistant bacteria. Bacteriophages are viruses
+that infect and lyse specific bacterial strains, making them attractive candidates for targeted
+antimicrobial treatment. Burkholderia multivorans, a Gram-negative bacterium, is known to cause
+opportunistic infections, particularly in individuals with a compromised immune system or with
+cystic fibrosis. The prevalence of antibiotic-resistant Burkholderia strains has raised concerns
+about treatment options. In this study, we characterized the Burkholderia phage Bm1, a virulent
+bacteriophage isolated from an environmental source. Electron microscopy revealed that Bm1 phage
+particles have myovirus morphology, with an icosahedral head of 72 nm in diameter and a contractile
+tail of 100 nm in length and 18 nm in width. The genome of phage Bm1 consists of a double-stranded
+DNA of 67,539 bp with a terminal repeat region at each end. Comparative analysis indicated that the
+closest relative of phage Bm1 is Burkholderia phage BCSR129, with a calculated VIRIDIC identity of
+57.7%. The apparent absence of an integrase gene suggests that the Burkholderia phage Bm1 has a
+strictly lytic life cycle.",
+40202825,From Fat Providers to Cancer Therapy: Adipocytes as Unexpected Allies.,Cancer research (Cancer Res),"Adipocytes from white adipose tissue support cancer progression by supplying fatty acids to tumor
+cells while cold-activated brown adipose tissue has been shown to inhibit tumor growth by disrupting
+cancer cell metabolism. In a groundbreaking study published in Nature Biotechnology, Nguyen and
+colleagues developed Adipose-Modified Therapy (AMT), a strategy that genetically reprograms white
+adipocytes to outcompete tumors for key nutrients. Using CRISPR activation technology, researchers
+enhanced adipocyte glucose and fatty acid consumption, by inducing a stable browning phenotype. In
+vitro, browned adipocytes reduced glycolysis and fatty acid oxidation in cancer cells, inhibiting
+their proliferation. Implantation of engineered adipose organoids adjacent to tumors suppressed
+tumor growth, reduced angiogenesis, and altered metabolic gene expression in xenograft models. AMT
+also prevented tumor development in genetic mouse models of cancer, suggesting a role in cancer
+prevention. Finally, modified human mammary adipocytes inhibited the growth of patient-derived
+breast cancer organoids. This therapy, based on autologous fat transplantation, could offer a
+reversible and patient-specific approach. Challenges remain, including metabolic plasticity in
+cancer cells and the fragility of mature adipocytes in cell culture. AMT represents a paradigm shift
+in cancer therapy, leveraging adipocytes as metabolic competitors rather than tumor facilitators,
+opening new avenues for metabolism-targeted cancer treatments.",
+40183402,Combination of tumor organoids with advanced technologies: A powerful platform for tumor evolution and treatment response (Review).,Molecular medicine reports (Mol Med Rep),"Malignant tumors notably decrease life expectancy. Despite advances in cancer diagnosis and
+treatment, the mechanisms underlying tumorigenesis, progression and drug resistance have not been
+fully elucidated. An emerging method to study tumors is tumor organoids, which are a
+three‑dimensional miniature structure. These retain the patient‑specific tumor heterogeneity while
+demonstrating the histological, genetic and molecular features of original tumors. Compared with
+conventional cancer cell lines and animal models, patient‑derived tumor organoids are more advanced
+at physiological and clinical levels. Their synergistic combination with other technologies, such as
+organ‑on‑a‑chip, 3D‑bioprinting, tissue‑engineered cell scaffolds and clustered regularly
+interspaced short palindromic repeats (CRISPR)/CRISPR‑associated protein 9, may overcome limitations
+of the conventional 3D organoid culture and result in the development of more appropriate model
+systems that preserve the complex tumor stroma, inter‑organ and intra‑organ communications. The
+present review summarizes the evolution of tumor organoids and their combination with advanced
+technologies, as well as the application of tumor organoids in basic and clinical research.","3D‑bioprinting, CRISPR‑Cas9, organ‑on‑a‑chip, tissue‑engineered scaffold, tumor organoid"
+40166174,High-throughput single cell -omics using semi-permeable capsules.,bioRxiv : the preprint server for biology (bioRxiv),"Biological systems are inherently complex and heterogeneous. Deciphering this complexity
+increasingly relies on high-throughput analytical methods and tools that efficiently probe the
+cellular phenotype and genotype. While recent advancements have enabled various single-cell -omics
+assays, their broader applications are inherently limited by the challenge of efficiently conducting
+multi-step biochemical assays while retaining various biological analytes. Extending on our previous
+work ( <i>1</i> ) here we present a versatile technology based on semi-permeable capsules (SPCs),
+tailored for a variety of high-throughput nucleic acid assays, including digital PCR, genome
+sequencing, single-cell RNA-sequencing (scRNA-Seq) and FACS-based isolation of individual
+transcriptomes based on nucleic acid marker of interest. Being biocompatible, the SPCs support
+single-cell cultivation and clonal expansion over long periods of time - a fundamental limitation of
+droplet microfluidics systems. Using SPCs we perform scRNA-Seq on white blood cells from patients
+with hematopoietic disorders and demonstrate that capsule-based sequencing approach (CapSeq) offers
+superior transcript capture, even for the most challenging cell types. By applying CapSeq on acute
+myeloid leukemia (AML) samples, we uncover notable changes in transcriptomes of mature granulocytes
+and monocytes associated with blast and progenitor cell phenotypes. Accurate representation of the
+entirety of the cellular heterogeneity of clinical samples, driving new insights into the
+malfunctioning of the innate immune system, and ability to clonally expand individual cells over
+long periods of time, positions SPC technology as customizable, highly sensitive and broadly
+applicable tool for easy-to-use, scalable single-cell -omics applications.",
+40183391,Loss of conserved long non-coding RNA MIR503HG leads to altered NOTCH pathway signalling and left ventricular non-compaction cardiomyopathy.,Cardiovascular research (Cardiovasc Res),"The highly conserved long non-coding RNA (lncRNA) MIR505HG has been primarily recognized as a
+precursor for microRNAs (miR)-424 and miR-503. However, studies have since demonstrated that
+MIR503HG has distinct functions from its associated miRNAs, playing important roles in cell
+proliferation, invasion, apoptosis, and differentiation. While these miRNAs are known to influence
+cardiomyocyte differentiation, the specific role of MIR503HG in heart development remains
+unexplored. We seek to determine how MIR503HG deletion impacts ventricular chamber development and
+to identify underlying molecular mechanisms.  To study the role of the lncRNA in vivo, we generated
+a functional MIR503HG knockout mouse model (MIR503HG-/-) using a synthetic polyadenylation signal to
+terminate MIR503HG transcription without affecting miR-424/503 expression. We performed
+morphological analyses on embryonic and adult hearts using microCT along with cardiac functional
+analysis via transthoracic echocardiography. We further apply single-nuclei RNA sequencing (snRNA-
+seq) on adult hearts to identify potential molecular mechanisms underlying the observed phenotypes.
+Functional deletion of MIR503HG alone was associated with reduced compact myocardium thickness and
+increased trabecular myocardium in the left ventricle (LV) at embryonic day 17.5 compared to wild-
+type mice, indicating a LV non-compaction (LVNC) phenotype. Moreover, adult MIR503HG-/- mutant
+hearts showed increased trabecular complexity, impaired LV relaxation, and mitral valve
+regurgitation. SnRNA-seq further revealed altered expression of several genes associated with
+cardiomyocyte function and LVNC, including Actc1, Mib1, Mybpc3, and Myh7. Lastly, Notch1 activity
+was also significantly increased in mutant hearts which has been previously associated with LVNC.
+MIR503HG plays a role in ventricular chamber development, and its deletion leads to an LVNC
+phenotype independent of the miRNA cluster within its locus, highlighting its importance in cardiac
+development and disease. We further suggest that abnormal Notch1 activity may underpin the LVNC
+phenotype presented.","Heart development, Left ventricular non-compaction, Long non-coding RNA"
+40186195,CXCL12/CXCR4 axis mediates CD8 <sup>+</sup> T cell overactivation in the progression of viral myocarditis.,Journal of translational medicine (J Transl Med),"Myocarditis is a common inflammatory heart disease in children and young adults, with fulminant
+myocarditis (FM) being the most severe form due to its rapid onset and high mortality rate. However,
+the precise pathological immune subsets and molecular change in myocarditis, particularly FM, remain
+unknown.  We performed single-cell RNA sequencing of pediatric peripheral blood mononuclear cells
+during the acute and recovery phases of FM. A viral myocarditis (MC) mouse model was established
+using CVB3. Deletion and adoptive transfer of CD8<sup>+</sup>T cells, as well as blockade of CXCR4,
+were conducted in vivo. CD8<sup>+</sup>T cells were sorted and cultivated in vitro, then stimulated
+with CXCL12 and CXCR4 antagonists to investigate the mechanism of CD8<sup>+</sup>T cell
+overactivation.  CD8<sup>+</sup>T cells show significant activation, amplification, enhanced
+cytotoxicity, and increased chemotactic ability in FM. Deletion of CD8<sup>+</sup>T cells alleviates
+myocardial injury and improves cardiac function in MC mice, while adoptive transfer of
+CD8<sup>+</sup>T cells from MC mice aggravates myocardial inflammation and injury. The
+transcriptomic analysis reveals elevated CXCR4 expression in CD8<sup>+</sup>T cells in acute FM. In
+vitro experiments demonstrate that the CXCL12/CXCR4 axis drives the overactivation and cytotoxicity
+of CD8<sup>+</sup>T cells. In vivo treatment with a CXCR4 antagonist effectively reduces
+CD8<sup>+</sup>T cell accumulation in the heart, alleviates myocardial inflammation, and improves
+cardiac function in MC mice.  These findings provide deeper insights into the immune landscape of
+pediatric FM, uncovering a novel role of the CXCL12/CXCR4 axis in driving CD8<sup>+</sup>T cell
+responses in myocarditis. Furthermore, they highlight the CXCL12/CXCR4 axis as a promising
+therapeutic target for myocarditis treatment.","CD8+T cell, CXCR4, Myocarditis, Single-cell RNA sequencing"
+40240239,Cystic Fibrosis-related neurodegenerative disease associated with tauopathy and cognitive decline in aged CF mice.,Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society (J Cyst Fibros),"Highly effective modulator therapies (HEMT) are increasing the lifespan for many people with cystic
+fibrosis (pwCF), making it necessary to identify and understand CF specific age-related
+consequences. In this study, we examine the impact of aging on cognitive function and age-related
+brain pathology in a CF mouse model focusing on phospho-Tau (pTau) pathology.  Cognitive function
+was measured by novel object recognition and spontaneous alternation behavior tests. Hippocampal
+neuronal function was assessed by measuring long-term potentiation (LTP) electrophysiology, the
+synaptic correlate of learning and memory. Tau pathology was assessed by immunohistochemical
+analyses and western blot assessment of pTau levels in CF mouse brain, as well as human nasal
+epithelial cells isolated from pwCF.  Cognitive function declined progressively with age in Cftr
+(G542X/G542X) (G542X) mice, a model of CF, compared to wild-type (WT) littermate controls. LTP was
+also deficient in older G542X mice. Increased pTau was observed by staining and western blot
+analysis in the hippocampus of aged CF mice. Secondary impacts of tauopathy, including increased
+microglial uptake of cholesterol and reduced neuronal density were also observed. Lastly, human
+nasal epithelial cells from pwCF were found to display elevated pTau levels compared to non-CF
+controls.  Aging CF mice develop tauopathy, cognitive decline, LTP impairment, microglial
+activation, and neurodegeneration that is not experienced by age-matched WT littermates, a condition
+herein termed cystic fibrosis-related neurodegeneration (CFND). These findings suggest that pwCF may
+be at risk for tauopathy-related neurodegeneration and cognitive impairment with aging.","Cognition, Cystic fibrosis, Dementia, Tauopathy"
+40241828,Integration of volatile and non-volatile metabolites and the transcriptome reveals the formation mechanisms of differential aroma compounds between <i>Pyrus communis</i> and <i>Pyrus pyrifolia</i> cultivars.,Frontiers in plant science (Front Plant Sci),"Aroma compounds are important flavor components in pear fruit. Among cultivated pears, fruits from
+<i>Pyrus communis</i> (hereafter referred to as <i>P. communis</i>) cultivars are famous for their
+abundant aroma, while the fruits of most <i>Pyrus pyrifolia</i> (hereafter referred to as <i>P.
+pyrifolia</i>) cultivars lack aroma compounds. A comparative study on the formation of differential
+aroma compounds between the two species could provide a theoretical foundation for improving the
+aroma quality of <i>P. pyrifolia</i> cultivars. However, there is a lack of systematic research on
+this subject.  An analysis of volatile and non-volatile metabolites was combined with transcriptome
+analysis to explore the formation mechanism of differential aroma compounds between three <i>P.
+communis</i> and three <i>P. pyrifolia</i> cultivars.  In this study, a total of 510 volatile
+compounds were identified in the six cultivars. Of these, sixteen ester and alcohol compounds,
+including butyl acetate, hexyl acetate, ethyl-2-methylbutyrate, ethanol, butanol, propanol, and
+2-methylbutanol, with higher contents in the <i>P. communis</i> cultivars than in the <i>P.
+pyrifolia</i> cultivars were identified as the primary differential aroma compounds. Among the
+possible synthesis pathways for these 16 aroma compounds, certain amino acid degradation processes,
+including isoleucine, valine, and alanine oxidation and threonine dehydration, were found to provide
+important intermediate substances for synthesis. Within the key enzyme genes in the synthesis
+pathway, several critical enzyme genes, including monoacylglycerol lipase (PcMAGL, pycom08g09340),
+threonine dehydrase (PcTD, pycom12g10020), and acyl CoA dehydrogenase (PcACD, pycom16g13880), might
+be important factors contributing to the disparity in aromatic compounds between <i>P. communis</i>
+and <i>P. pyrifolia</i> cultivars.  The aforementioned results provide valuable information into the
+formation mechanisms of differential aroma compounds and offer novel target sites for enhancing pear
+aroma quality through gene editing.","aroma compounds, pear fruit, synthesis pathways, transcriptome, volatile metabolite"
+40203653,Propionate alleviates diabetes-induced cardiac fibrosis in mice via regulating Serpinf1.,Biochemical and biophysical research communications (Biochem Biophys Res Commun),"Diabetic cardiomyopathy is a severe cardiovascular complication that adversely affects the heart
+health of diabetic patients. This study aims to investigate the therapeutic effects of propionate on
+the cardiac fibrosis phenotype in diabetic mice and to elucidate its underlying mechanisms.  A
+streptozotocin-induced diabetic mouse model was used in the experiments. After successful induction
+of diabetes, the mice received propionate treatment. Cardiac fibrosis and inflammatory factor levels
+were assessed using histological analysis and biochemical assays. Furthermore, single-cell RNA
+sequencing and primary mouse cardiac fibroblast sequencing data were analyzed to explore the
+potential mechanisms underlying propionate's effects on diabetic cardiac fibrosis. Finally, the
+molecular mechanism by which propionate reverses diabetes-induced cardiac fibrosis was validated
+using shRNA knockdown experiments.  The results showed that propionate treatment significantly
+improved cardiac fibrosis in diabetic mice and reduced the levels of inflammatory factors in cardiac
+tissues. Additionally, propionate upregulated the expression of the Serpinf1 gene, inhibited the
+abnormal activation of the Wnt signaling pathway, and reduced fibrosis and marker expression levels
+in high-glucose-induced cardiac fibroblasts.  The main conclusion of this study is that propionate
+effectively improves the diabetic cardiac fibrosis phenotype in mice, and this therapeutic effect is
+specific to pathological conditions. The study further identifies Serpinf1 as the molecular target
+of propionate's action. These findings not only enhance our understanding of the pathophysiological
+mechanisms of diabetic cardiomyopathy but also provide new strategic insights for diabetes
+treatment, holding significant clinical application potential.","Cardiac fibrosis, DCM, Propionate, Serpinf1"
+40196673,Redirecting cytotoxic lymphocytes to breast cancer tumors via metabolite-sensing receptors.,bioRxiv : the preprint server for biology (bioRxiv),"Insufficient infiltration of cytotoxic lymphocytes to solid tumors limits the efficacy of
+immunotherapies and cell therapies. Here, we report a programmable mechanism to mobilize Natural
+Killer (NK) and T cells to breast cancer tumors by engineering these cells to express orphan and
+metabolite-sensing G protein-coupled receptors (GPCRs). First, in vivo and in vitro CRISPR
+activation screens in NK-92 cells identified <i>GPR183</i> , <i>GPR84</i> , <i>GPR34</i> ,
+<i>GPR18</i> , <i>FPR3</i> , and <i>LPAR2</i> as top enhancers of both tumor infiltration and
+chemotaxis to breast cancer. These genes equip NK and T cells with the ability to sense and migrate
+to chemoattracting metabolites such as 7α,25-dihydroxycholesterol and other factors released from
+breast cancer. Based on Perturb-seq and functional investigations, GPR183 also enhances effector
+functions, such that engineering NK and CAR NK cells to express GPR183 enhances their ability to
+migrate to, infiltrate, and control breast cancer tumors. Our study uncovered metabolite-based tumor
+immune recruitment mechanisms, opening avenues for spatially targeted cell therapies.",
+40240435,Cost-effectiveness of population-based expanded reproductive carrier screening for genetic diseases in Australia: a microsimulation analysis.,European journal of human genetics : EJHG (Eur J Hum Genet),"Using the Australian Census survey 2021 as base population, a microsimulation model, PreconMOD was
+developed to evaluate the cost-effectiveness of population-based expanded reproductive carrier
+screening (RCS) for 569 recessive conditions from the health service and societal perspectives. The
+model simulated the effect of expanded RCS including the downstream interventions for at-risk
+couples on cost and outcomes. The comparators were (i) no population screening (ii) limited
+screening for cystic fibrosis, spinal muscular atrophy, and fragile X syndrome and (iii) a 300
+conditions screening panel. Averted affected births and health service cost with expanded RCS were
+projected to year 2061. At a 50% uptake, our model predicts that expanded RCS is cost saving (i.e.,
+higher quality-adjusted life-years and lower costs) compared with other screening strategies in the
+model from the health service and societal perspectives. The number of affected births averted in a
+single cohort would increase from 84 [95% confidence interval (CI) 60-116] with limited screening to
+2067 (95%CI 1808-2376) with expanded RCS. Expanded RCS was cost-saving compared to the
+300-conditions screening panel. Indirect cost accounted for about one-third of the total costs
+associated with recessive disorders. Our model predicts that the direct treatment cost associated
+with current limited 3 genes screening would increase by 20% each year to A$73.4 billion to the
+health system by 2061. Our findings contribute insights on the cost burden of genetic diseases and
+the economic benefits of expanded RCS to better informed resource allocation decisions.",
+40118716,Transcriptionally distinct malignant neuroblastoma populations show selective response to adavosertib treatment.,Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics (Neurotherapeutics),"Neuroblastoma is an aggressive childhood cancer that arises from the sympathetic nervous system.
+Despite advances in treatment, high-risk neuroblastoma remains difficult to manage due to its
+heterogeneous nature and frequent development of drug resistance. Drug repurposing guided by single-
+cell analysis presents a promising strategy for identifying new therapeutic options. Here, we aim to
+characterize high-risk neuroblastoma subpopulations and identify effective repurposed drugs for
+targeted treatment. We performed single-cell transcriptomic analysis of neuroblastoma samples,
+integrating bulk RNA-seq data deconvolution with clinical outcomes to define distinct malignant cell
+states. Using a systematic drug repurposing pipeline, we identified and validated potential
+therapeutic agents targeting specific high-risk neuroblastoma subpopulations. Single-cell analysis
+revealed 17 transcriptionally distinct neuroblastoma subpopulations. Survival analysis identified a
+highly aggressive subpopulation characterized by elevated UBE2C/PTTG1 expression and poor patient
+outcomes, distinct from a less aggressive subpopulation with favorable prognosis. Drug repurposing
+screening identified Adavosertib as particularly effective against the aggressive subpopulation,
+validated using SK-N-DZ cells as a representative model. Mechanistically, Adavosertib suppressed
+cell proliferation through AKT/mTOR pathway disruption, induced G2/M phase cell cycle arrest, and
+promoted apoptosis. Further analysis revealed UBE2C and PTTG1 as key molecular drivers of drug
+resistance, where their overexpression enhanced proliferation, Adavosertib resistance, and cell
+migration. This study establishes a single-cell-based drug repurposing strategy for high-risk
+neuroblastoma treatment. Our approach successfully identified Adavosertib as a promising repurposed
+therapeutic agent for targeting specific high-risk neuroblastoma subpopulations, providing a
+framework for developing more effective personalized treatment strategies.","AKT/mTOR pathway, Adavosertib, Cancer therapy, Neuroblastoma, Single cell RNA sequencing"
+40241998,Novel Co-Occurrence of Trisomy 21 and Heterozygous CFTR Mutation.,Respirology case reports (Respirol Case Rep),"The coexistence of trisomy 21 and cystic fibrosis (CF) is extremely rare, with fewer than 10
+reported cases, all involving homozygous CFTR mutations. However, the impact of a heterozygous CFTR
+mutation in a patient with trisomy 21 remains unexplored. We present a male infant with trisomy 21
+who experienced recurrent respiratory distress and was later found to carry a heterozygous
+pathogenic CFTR mutation (p.Phe508del). His respiratory complications were severe, requiring
+tracheostomy and long-term respiratory support. This case highlights the potential interplay between
+trisomy 21-associated anatomical features and CFTR-related airway abnormalities, possibly
+exacerbating respiratory morbidity. Given the high burden of respiratory complications in both
+conditions, clinicians should consider CFTR-related disorders in patients with trisomy 21 presenting
+with severe respiratory issues. Further research is warranted to determine the clinical significance
+of CFTR heterozygosity in trisomy 21 and its implications for disease severity and management.","case report, cystic fibrosis, heterozygous CFTR mutation, trisomy 21"
+40207234,The distinctive signature of regulatory CD4 T cells committed in the human thymus.,Frontiers in immunology (Front Immunol),"Thymically committed regulatory CD4 T cells (tTregs) are essential for immune homeostasis and self-
+tolerance. We established the human tTreg Expression Signature by comparing genome-wide
+transcriptomic profiles between tTregs and their conventional counterparts (tTconvs). We further
+exploited the high sequencing depth of our bulk RNA-seq data to identify a subset of 250 genes
+significantly expressed in human tTregs and with neglectable expression in tTconvs, defined as below
+the levels of expression of <i>IL2RA</i>, that we named thymic Treg ""private"" genes. Notably,
+pathways related to cell motility, inflammation, and T-cell effector specification were
+overrepresented within the tTreg private genes. We found that 163 of these genes were significantly
+less expressed in circulating naïve and memory Tregs when compared to peripheral data generated in
+parallel. This result suggested a higher activity for most of the ""private"" genes in the thymus when
+compared to the peripheral compartments. Altogether, we provide a unique resource to inform future
+studies, such as for improving annotation in single-cell and spatial transcriptional data, or help
+in designing human studies to validate putative biomarkers for thymically committed Tregs, a
+priority in the field.","CD4 T cells, FOXP3, RNA-seq, human T-cell development, human thymus, regulatory T cells"
+40201199,Integrated bioinformatics analysis to develop diagnostic models for malignant transformation of chronic proliferative diseases.,"Blood science (Baltimore, Md.) (Blood Sci)","The combined analysis of dual diseases can provide new insights into pathogenic mechanisms, identify
+novel biomarkers, and develop targeted therapeutic strategies. Polycythemia vera (PV) is a chronic
+myeloproliferative neoplasm associated with a risk of acute myeloid leukemia (AML) transformation.
+However, the chronic nature of disease transformation complicates longitudinal high-throughput
+sequencing studies of patients with PV before and after AML transformation. This study aimed to
+develop a diagnostic model for malignant transformation of chronic proliferative diseases,
+addressing the challenges of early detection and intervention. Integrated public datasets of PV and
+AML were analyzed to identify differentially expressed genes (DEGs) and construct a weighted
+correlation network. Machine-learning algorithms screen genes for potential biomarkers, leading to
+the development of diagnostic models. Clinical specimens were collected to validate gene expression.
+cMAP and molecular docking predicted potential drugs. In vitro experiments were performed to assess
+drug efficacy in PV and AML cells. CIBERSORT and single-cell RNA-sequencing (scRNA-seq) analyses
+were used to explore the impact of hub genes on the tumor microenvironment. We identified 24 genes
+shared between PV and AML, which were enriched in immune-related pathways. Lactoferrin (LTF) and G
+protein-coupled receptor 65 (GPR65) were integrated into a nomogram with a robust predictive power.
+The predicted drug vemurafenib inhibited proliferation and increased apoptosis in PV and AML cells.
+TME analysis has linked these biomarkers to macrophages. Clinical samples were used to confirm LTF
+and GPR65 expression levels. We identified shared genes between PV and AML and developed a
+diagnostic nomogram that offers a novel avenue for the diagnosis and clinical management of AML-
+related PV.","Acute myeloid leukemia, Bioinformatics analysis, Biomarker, Hub genes, Machine learning, Polycythemia vera"
+40214805,The effect of TIGIT and PD1 expression on T cell function and prognosis in adult patients with acute myeloid leukemia at diagnosis.,"Cancer immunology, immunotherapy : CII (Cancer Immunol Immunother)","T cell immunoreceptor with immunoglobulin and ITIM domain (TIGIT) is a recently-identified immune
+checkpoint molecule, and no study ever explores the prognostic significance of TIGIT on bone marrow
+T cells of newly-diagnosed acute myeloid leukemia (AML) patients. We collected fresh marrow samples
+from 71 adult AML patients at diagnosis and 31 healthy donors (HDs) to test for TIGIT and PD1
+expression in T cells by flow cytometry. Fifteen newly-diagnosed AML patients and six HDs were
+performed T cell activation in vitro and tested intracellular TNF-α and INF-γ production. Three bone
+marrow samples of AML patients were performed single cell RNA-sequencing (scRNA-seq). AML patients
+had significantly higher frequency of TIGIT + cells in CD4 + T cells but similar frequency in
+CD8 + T cells compared with HDs (p = 0.0006 and 0.77). High percentage of TIGIT + PD1 + in CD8 + T
+cells independently predicted poor relapse-free survival (RFS) (p = 0.029). Differing from HDs, AML
+patients had lower level of intracellular TNF-α and INF-γ in TIGIT + cells compared with their
+TIGIT- counterparts in both CD4 + T and CD8 + T cells. TIGIT + PD1 + CD8 + T cells of patients
+exhibited significantly lower level of intracellular TNF-α compared with those of HDs (p = 0.024).
+scRNA-seq data showed that TIGIT + PDCD1 + CD8 + T cells had significantly higher exhaustion score
+than TIGIT + and PD1 + CD8 + T cells and lower cytotoxic score than TIGIT + CD8 + T cells
+(p = 0.0016, 0.012 and 0.0014). Therefore, CD8 + T cells with TIGIT and PD1 co-expression exhibited
+high degree of exhaustion and dysfunctional cytotoxicity, and high percentage of bone marrow
+TIGIT + PD1 + in CD8 + T cells at diagnosis predicted poor outcome in AML.","Newly-diagnosed acute myeloid leukemia, PD1, Relapse-free survival, TIGIT, scRNA-seq"
+39834406,The role of cell cycle-related genes in the tumorigenesis of adrenal and thyroid neuroendocrine tumors.,Heliyon (Heliyon),"The molecular mechanisms underlying adrenal and thyroid neuroendocrine tumors, including their
+tumorigenesis, progression, and metastasis, involve unique pathways regulating cell cycle
+progression. To better understand these mechanisms and pathways, extensive in-depth research on cell
+cycle-related genes is necessary. This review aims to describe and interpret current single-cell RNA
+sequencing studies on neuroblastoma, medullary thyroid cancer, and pheochromocytoma tumors. Our
+review summarizes differentially expressed cell cycle-related genes with distinct functions,
+highlighting their potential as therapeutic targets and components of panels used to determine tumor
+type or aggressiveness. Although some insights have been gained, there is still limited information
+on these topics, and further research is required to explore the regulatory mechanisms of these
+tumors.","Adrenal gland, Cell cycle-related genes, Medullary thyroid cancer, Neuroblastoma, Neuroendocrine tumors, Pheochromocytoma, Thyroid gland, scRNA-seq"
+40212811,Single-cell RNA sequencing reveals the heterogeneity and regulatory modules of cell-specific RNA-binding proteins in patients with systemic lupus erythematosus.,Biochemistry and biophysics reports (Biochem Biophys Rep),"Systemic lupus erythematosus (SLE) is an autoimmune disorder characterized by immune dysregulation,
+heterogeneous clinical phenotypes, and a complex interplay of pathogenic mechanisms. RNA-binding
+proteins (RBPs), which orchestrate post-transcriptional gene regulation through dynamic interactions
+with target transcripts, are increasingly implicated in autoimmune pathogenesis. However, the cell-
+type-specific heterogeneity of RBPs expression and their regulatory networks in SLE remain poorly
+characterized.  To delineate RBPs dynamics in SLE skin microenvironment, we conducted a
+comprehensive single-cell transcriptomic analysis of publicly accessible single cell RNA sequencing
+(scRNA-seq) datasets from lesional skin biopsies of SLE patients and healthy controls (HC). Cell-
+type-specific RBPs expression patterns were systematically profiled across epidermal keratinocytes,
+dermal endothelial cells, and T cells. Complementary bulk RNA-Seq analyses employing Splicing Site
+Usage Variation Analysis (SUVA) were performed to identify immune gene-associated regulatory
+alternative splicing (RAS) events. Integrative co-expression networks linking RBPs, RAS events, and
+immune pathways were subsequently constructed.  Single-cell resolution revealed marked heterogeneity
+in RBPs expression across keratinocyte, endothelial cell, and T cell in SLE compared to HC. Notably,
+disease-specific RBPs were enriched in pathways governing interferon response, cytokine signaling,
+and leukocyte activation. Cross-analysis with bulk transcriptomic data highlighted JUN and HLA-A as
+hub regulators exhibiting elevated expression in SLE T cells. Network modeling further uncovered
+coordinated interactions between JUN, HLA-A, and RAS events in immune genes, implicating their
+synergistic roles in modulating T cell effector functions.  Our multi-omics integration identifies
+JUN and HLA-A as central coordinators of alternative splicing programs in SLE T cells. These
+molecular hubs, embedded within immune regulatory networks, may drive pathogenic rewiring of T cell
+responses in SLE.","HLA-A, JUN, RNA-Binding proteins, Systemic lupus erythematosus, single cell RNA-Sequencing"
+40230848,The role of transketolase in the immunotherapy and prognosis of hepatocellular carcinoma: a multi-omics approach.,Frontiers in immunology (Front Immunol),"To explore the role of transketolase (TKT) in the immunotherapy and prognosis of hepatocellular
+carcinoma (HCC).  TKT expression across various cancers and its associations with tumor immunity and
+prognosis were analyzed using nomogram models. A multi-omics approach was employed, including bulk
+RNA-seq analysis, methylation profiling, single-cell analysis, and spatial transcriptomics.
+Experimental methods included RT-qPCR, siRNA transfection, luciferase reporter assay, and chromatin
+immunoprecipitation.  TKT was significantly upregulated in multiple cancers and correlated with
+immune cell infiltration, particularly in HCC. Elevated TKT expression was associated with poor
+overall survival (OS) in HCC and was an independent prognostic factor (p < 0.05). Drug sensitivity
+analysis suggested that higher TKT expression was associated with reduced sensitivity to several
+chemotherapeutic agents, including sorafenib (p < 0.01). Furthermore, hypermethylation of the TKT
+promoter and low TKT expression were linked to improved OS in HCC (log-rank test p = 0.005). Single-
+cell analysis revealed that TKT was predominantly expressed in the monocyte/macrophage cluster
+associated with HCC, and pseudo-time series analysis highlighted TKT's role in cell differentiation
+within this cluster. Spatial transcriptomics confirmed the close association between TKT and
+macrophage distribution in HCC. Moreover, STAT3 was found to directly regulate TKT expression by
+binding to its promoter region.  Our findings suggest that TKT may play a role in tumor immunity and
+prognosis in HCC. Although these results provide insights into the potential involvement of TKT in
+immune cell infiltration and survival outcomes, further studies are required to fully elucidate its
+role in immunotherapy.","Hep-G2, TKT, hepatocellular carcinoma, pentose phosphate pathway, transketolase"
+40201592,Modulation of cell fate by shock wave therapy in ischaemic heart disease.,European heart journal open (Eur Heart J Open),"Cardiac shockwave therapy (SWT) improves left ventricular (LV) function in patients with ischaemic
+cardiomyopathy. Shockwave therapy activates Toll-like receptor 3 (TLR3), a receptor-inducing
+chromatin remodelling and nuclear reprogramming of cardiac cells. We hypothesized that mechanical
+activation of TLR3 facilitates reprogramming of fibroblasts towards endothelial cells restoring
+myocardial perfusion and function.  Human cardiac fibroblasts were treated by mechanical stimulation
+via SWT or TLR3 agonist Poly(I:C) in the presence of endothelial induction medium. A lineage tracing
+experiment was performed in a transgenic mouse model of Fsp1-Cre/LacZ mice after coronary occlusion.
+Left ventricular function and scarring were assessed. Single-cell sequencing including RNA
+trajectory analysis was performed. Chromatin remodelling and epigenetic plasticity were evaluated
+via western blot and Assay for Transposase-Accessible Chromatin sequencing. Mechanical stimulation
+of human fibroblasts with SWT activated TLR3 signalling and enhanced the expression of endothelial
+genes in a TLR3-dependent fashion. The induced endothelial cells (ECs) resembled genuine ECs in that
+they produced endothelial nitric oxide and formed tube-like structures in Matrigel. In a lineage
+tracing experiment in Fsp1-Cre/LacZ mice, shockwave treatment increased LacZ/CD31-positive cells
+(indicating transdifferentiation) after coronary occlusion. Furthermore, SWT reduced myocardial scar
+size and improved LV function. Single-cell RNA-seq and RNA trajectory analyses revealed that SWT
+induced an endothelial fibroblast cluster and mechanical stimulation induced significant changes in
+chromatin organization, with chromatin being more accessible after both treatments in 1705 genomic
+regions.  Shockwave therapy enhances DNA accessibility via TLR3 activation and facilitates the
+transdifferentiation of fibroblasts towards endothelial cells in ischaemic myocardium.","Cardiac surgery, Heart regeneration, Shockwave therapy, Therapeutic transdifferentiation"
+40217309,Decoding mitochondrial stress genes in DCM: towards precision diagnosis and therapy.,Hereditas (Hereditas),"Mitochondrial oxidative stress (ROS) is a crucial factor in the pathogenesis of dilated
+cardiomyopathy (DCM). Despite its significance, robust biomarkers for assessing its role remain
+scarce. This study investigates ROS mechanisms in DCM and identifies associated biomarkers, offering
+fresh insights into diagnosis and treatment.  We sourced transcriptomic data from the GEO database
+and mitochondrial oxidative stress-related genes from GeneCards. Using consensus clustering, we
+identified 64 genes associated with mitochondrial oxidative stress in DCM and further isolated five
+hub genes through protein-protein interaction and machine learning techniques. These genes were
+analyzed for functions related to immunity, drug sensitivity, and single-cell localization.
+Concurrently, we collected blood samples from DCM patients to validate the hub genes' expression.
+The study identified five hub genes related to mitochondrial oxidative stress: VCL, ABCB1, JAK2,
+KDR, and NGF. Expression analysis revealed high levels of VCL, ABCB1, KDR, and NGF in the non-
+failing (NF) group, while JAK2 was elevated in the DCM group (p < 0.05). Diagnostic efficacy,
+measured by area under the curve (AUC), was significant for VCL (76.4), ABCB1 (80.1), JAK2 (68.2),
+KDR (78.1), and NGF (71.8). Moreover, several drugs were identified as potential regulators of these
+hub genes, including Topotecan, CDK9_5576, Acetalax, Afatinib, and GSK591. Notably, VCL showed
+increased expression in DCM patient blood samples, consistent with transcriptomic and single-cell
+findings.  This research highlights key genes associated with mitochondrial oxidative stress-VCL,
+ABCB1, JAK2, KDR, NGF-that show differential expression in DCM and myocardial infarction. These
+findings underscore their diagnostic potential and pave the way for new therapeutic strategies.","Bioinformatics, Diagnosis, Dilated cardiomyopathy, Immune infiltration, Mitochondria, Oxidative stress"
+39849194,Comprehensive assessment of the significance of cellular senescence-associated genes in neuroblastoma.,Genes & genomics (Genes Genomics),"The clinical course of high-risk neuroblastoma patients remains suboptimal, and the dynamic and
+reversible nature of cellular senescence provides an opportunity to develop new therapies.  This
+study aims to identify unique markers of cellular senescence in neuroblastoma and to explore their
+clinical significance.  The impact of multiple genetic regulatory mechanisms on cellular senescence-
+associated genes (CSAGs) was first assessed. We identified cellular senescence-associated subtypes
+by hierarchical clustering and explored the intrinsic differences between subtypes. We screened key
+CSAGs based on PPI networks and clinical significance. Subsequently, we constructed the cellular
+senescence-related risk score (CSRS) by LASSO regression and stepwise Cox regression, and validated
+its performance and stability through multiple methods. Finally, we performed single-cell analysis
+and constructed the nomogram.  The expression of CSAGs was influenced by copy number variation and
+DNA methylation. We found that significant differences between cellular senescence-associated
+subtypes in immune infiltration and overall prognosis. AURKA, CDK4, TERT were key genes in the
+cellular senescence process. CSRS showed superior and robust predictive performance in several
+cohorts and could serve as an independent prognostic factor in neuroblastoma. The senescence
+signature was also meaningful at the single-cell level and the nomogram was shown to have high
+accuracy and high clinical benefit.  We comprehensively evaluated the significance of cellular
+senescence in neuroblastoma and concluded that it was significantly associated with immune
+characteristics and overall prognosis. Based on the expression levels of CSAGs, we developed the
+CSRS, which was a reliable tool to contribute to prognostic assessment and clinical decision making.","Cellular senescence, Hierarchical clustering, Immune, Neuroblastoma, Risk score, scRNA-seq"
+40241265,Allelic value in gene regulation - implications for gene editing.,Annals of botany (Ann Bot),"Gene editing has emerged as the most precise trait modification tool in plant breeding. However, an
+understanding of what to target and in which genetic background to obtain the intended phenotype is
+still emerging. This perspective presents an analytical overview of traits targeted, particularly in
+tomato and rice, where extensive data on gene editing is available in the public domain.  The
+available gene editing data on allelic values for a given molecular pathway in crops like tomato and
+rice is revisited. The phenotypes of edits generated across genetic backgrounds were assessed and
+compared with available resequencing and phenotypic data. The traits evaluated in the current
+perspective were de novo domestication, grain quality, fruit color, yield-related traits and stress
+tolerance to check whether the data available gives significant leads to address these traits via
+editing in other crops. The rationale for editing a particular gene lies in the understanding of the
+diverse alleles generated, and in this perspective, we attempted to discern both the advancements
+made and the bottlenecks encountered.  The effectiveness of gene editing relies significantly on the
+roles of alleles generated in regulating specific genetic pathways. It is essential to conduct
+functional validation of the targeted allele across multiple distinct genetic backgrounds to
+ascertain its utility. The influence an allele exerts on a given trait is contingent upon factors
+like the nature of the trait, the position of the gene within a given pathway, and the genetic
+background in which it has been/will be tested. This perspective highlights how editing has led to a
+range of phenotypic variations influenced by the genetic background, with certain lines achieving
+the desired phenotype alongside pleiotropic effects, whereas others do not manifest the expected
+phenotype. This challenge may be addressed by prioritizing the identification of the right candidate
+and specific motifs in the regulatory regions as potential targets rather than directly intervening
+in coding sequences.","alleles, genetic background, phenotype, rice, tomato, trait"
+40233268,"Single-cell RNA Sequencing Contributes to the Treatment of Acute Myeloid Leukaemia With Hematopoietic Stem Cell Transplantation, Chemotherapy, and Immunotherapy.",Journal of biochemical and molecular toxicology (J Biochem Mol Toxicol),"Acute myeloid leukemia (AML) is caused by altered maturation and differentiation of myeloid blasts,
+as well as transcriptional/epigenetic alterations and impaired apoptosis, all of which lead to
+excessive proliferation of malignant blood cells in the bone marrow. It is these mutations that
+cause tumor heterogeneity, which is linked to a higher risk of relapse and death and makes anti-AML
+treatments like HSCT, chemotherapy, and immunotherapy (ICI, CAR T-cell-based therapies, and cancer
+vaccines) less effective. Single-cell RNA sequencing (scRNA-seq) also makes it possible to find
+cellular subclones and profile tumors, which opens up new diagnostic and therapeutic targets for
+better AML management. The HSCT process works better when genetic and transcriptional information
+about the patient and donor stem cells is collected. This saves time and lowers the risk of harmful
+side effects happening in the body.","RNA sequencing, cancer vaccine, drug resistance, stem cell transplantation, transcriptome, tumor heterogeneity"
+40240556,Quantitative MRI detects delayed perfusion and impact of bronchial artery dilatation on pulmonary circulation in patients with cystic fibrosis.,European radiology (Eur Radiol),"MRI detects abnormal lung perfusion in patients with cystic fibrosis (CF). However, little is known
+about the contribution of bronchial arteries to lung perfusion in CF. We hypothesized that delayed
+perfusion can be detected by dynamic contrast-enhanced (DCE-)MRI and that bronchial artery
+dilatation (BAD) is associated with changes in lung perfusion.  Morpho-functional MRI was
+prospectively acquired in 75 patients with CF (18.7 ± 7.6 years, range 6-39 years). Lungs and
+perfusion defects were segmented automatically to quantify perfusion defects in percent (QDP).
+Pulmonary blood flow (PBF), mean transit time (MTT), and perfusion delay were calculated for the
+whole lung, inside normally perfused and perfusion defect areas. Chest MRI score and BAD were
+assessed visually.  QDP and PBF correlated with MRI global score (r = 0.58 and -0.53, p < 0.001). In
+normally perfused lung, PBF was higher (161.2 ± 77.9 mL/100 mL/min vs. 57.5 ± 26.4 mL/100 mL/min,
+p < 0.001), and MTT (5.4 ± 1.7 s vs. 6.9 ± 2.3 s, p < 0.001) and perfusion delay were shorter than
+in perfusion defect areas (4.6 ± 5.3 s vs. 13.4 ± 16.2 s, p < 0.001). 48 (64.0%) patients showed
+BAD, had higher QDP (44.6 ± 20.8% vs. 17.3 ± 11.0%, p < 0.001) and lower PBF
+(91.9 ± 54.8 mL/100 mL/min vs. 178.3 ± 77.4 mL/100 mL/min, p < 0.001) than patients without BAD. MTT
+was shorter (6.3 ± 1.9 s vs. 8.0 ± 2.6 s, p < 0.001), and perfusion delay was longer (13.8 ± 10.1 s
+vs. 12.8 ± 23.7 s, p < 0.02) inside perfusion defects of patients with BAD compared to without BAD.
+Perfusion parameters correlate with lung disease severity, and perfusion defects showed delayed
+perfusion in patients with CF. BAD was associated with more extensive perfusion defects and reduced
+PBF.  Question Dilated bronchial arteries are a common comorbidity in cystic fibrosis (CF), which
+can cause hemoptysis, but their quantitative contribution to lung perfusion is little researched.
+Findings Perfusion defects in percent (QDP) enabled objective assessment of perfusion abnormalities
+in CF patients, while perfusion delay and arterial correlation showed bronchial artery perfusion
+contribution. Clinical relevance The usage of quantitative perfusion metrics in CF may help tracking
+disease progression. By also including the proposed metrics perfusion delay and arterial
+correlation, bronchial artery inflow could be assessed and used to detect early onset of bronchial
+artery dilation.","Bronchial arteries, Cystic fibrosis, Dynamic contrast enhanced magnetic resonance imaging, Hemoptysis, Magnetic resonance imaging"
+40165367,"Neuronal activity modulates the expression of secretagogin, a Ca<sup>2+</sup> sensor protein, during mammalian forebrain development.","Acta physiologica (Oxford, England) (Acta Physiol (Oxf))","Because of their stable expression, some EF-hand Ca<sup>2+</sup>-binding proteins are broadly used
+as histochemical markers of neurons in the nervous system. Secretagogin is a member of ""neuron-
+specific"" Ca<sup>2+</sup>-sensor proteins, yet variations in its expression due, chiefly, to
+neuronal activity remain ambiguous. We aimed to fill this gap of knowledge both in its use as a cell
+identity marker and for mechanistic analysis.  We mapped secretagogin distribution in human foetal
+forebrains. Then, Scgn-iCre::Ai9 mice in conjunction with single-cell RNA-seq were used to
+molecularly characterize cortical secretagogin-expressing neurons. Besides the in vitro manipulation
+of both SH-SY5Y neuroblastoma cells and primary cortical cultures from foetal mice, the activity
+dependence of secretagogin expression was also studied upon systemic kainate administration and dark
+rearing.  In the mammalian brain, including humans, both transient and stable secretagogin
+expression sites exist. In the cerebral cortex, we identified deep-layer pyramidal neurons with
+lifelong expression of secretagogin. Secretagogin expression was affected by neuronal activity: it
+was delayed in a cohort of human foetuses with Down's syndrome relative to age-matched controls. In
+mice, dark rearing reduced secretagogin expression in the superior colliculus, a midbrain structure
+whose development is dependent on topographic visual inputs. In contrast, excitation by both KCl
+exposure of SH-SY5Y cells and primary cortical neurons in vitro and through systemic kainate
+administration in mice increased secretagogin expression.  We suggest that secretagogin expression
+in neurons is developmentally regulated and activity dependent.","calcium‐binding protein, light deprivation, neurodevelopmental disorder, single‐cell transcriptomics, trisomy"
+40223063,Prognostic value of natural killer T cell related genes in acute myeloid leukemia.,Cancer cell international (Cancer Cell Int),"Acute myeloid leukemia (AML) is a hematological malignancy characterized by complex immune
+microenvironment. This study aims to identify immune-related prognostic biomarkers in AML.  Multiple
+public sequencing datasets were utilized to analyze differentially expressed genes (DEGs) in AML.
+Single-sample gene set enrichment analysis (ssGSEA) and weighted gene co-expression network analysis
+(WGCNA) were also performed. Immune cell infiltration was assessed at the single-cell level. NKT
+cell marker genes were intersected with the most AML-relevant module genes to identify key genes.
+Prognostic genes were screened using the Cox Lasso regression model, and their prognostic value was
+evaluated with Cox random forest and Kaplan-Meier survival analyses. Gene expression was validated
+using RT-qPCR and Western blot, and immune cell levels were analyzed by flow cytometry.  A total of
+1,919 common DEGs were obtained between AML and controls. WGCNA revealed that the brown module was
+most strongly associated with AML. Single-cell analysis showed that NKT cell infiltration was
+significantly reduced in AML patients, consistent with ssGSEA results. Forty intersecting genes were
+identified between NKT cell marker genes and brown module genes. Cox Lasso regression identified 10
+prognostic genes (FGFBP2, GZMB, GZMH, IKZF3, IL2RB, KLRB1, KLRC2, RHOF, RUNX3, and STAT4). A risk
+score model based on these genes stratified AML patients into high-risk and low-risk groups, with
+significant differences in survival prognosis between the two groups. RT-qPCR and Western blot
+analyses showed that these genes were significantly downregulated in AML patients. Flow cytometry
+results revealed significantly lower levels of NKT and CD8 + T cells in AML patients compared to
+controls.  This study identified key prognostic genes in AML and highlighted the critical role of
+NKT cells in AML pathogenesis. The study provides new insights and potential biomarkers for
+understanding AML biology, prognosis, and therapeutic targets.","Acute myeloid leukemia, NKT cell, Prognosis, WGCNA"
+40208371,Identification and validation of pyroptosis patterns in AML via comprehensive bioinformatics analysis.,Discover oncology (Discov Oncol),"Pyroptosis, a lytic inflammatory cell death mechanism, plays dual roles in tumorigenesis, but its
+clinical relevance in acute myeloid leukemia (AML) remains poorly understood. Through an integrative
+analysis of 40 pyroptosis-related genes in newly diagnosed AML patients (TCGA, n = 151) and healthy
+controls (GTEx, n = 386), we identified 32 genes with aberrant expression. Among these, 9 genes were
+found to be significant prognostic markers, including ELANE (protective), and CASP1, CHMP4B, BAK1,
+and CHMP2A (risk), which retained their prognostic significance after adjusting for age and gender.
+Using unsupervised nonnegative matrix factorization (NMF) on TCGA data, we classified AML into two
+pyroptosis patterns: the ELANE<sup>high</sup> subtype, associated with favorable survival, and the
+ELANE<sup>low</sup> subtype, which was enriched in poor karyotypes and adverse outcomes. This
+classification was validated in an independent cohort (GSE10358, n = 91). Single-cell RNA sequencing
+data (GSE116256, n = 15) revealed that the ELANE<sup>low</sup> subtype is characterized by an
+immunologically active microenvironment, marked by an expansion of cytotoxic T cells and naive
+CD4 + /CD8 + T cells. Factor analysis revealed associations between pyroptosis patterns and other
+forms of cell death, including ferroptosis, autophagy, and apoptosis, as well as with karyotype,
+leukemia stemness, and TP53/FLT3-ITD mutations. Prognostic immune gene sets enriched in the
+ELANE<sup>low</sup> subtype were associated with interferon signaling and ubiquitin-mediated
+degradation pathways. Furthermore, protein-protein interaction (PPI) network analysis identified
+three sub-networks and nine key hub genes. This study integrates gene expression data from newly
+diagnosed AML patients, revealing the heterogeneity of pyroptosis patterns within the population. It
+highlights the potential links between distinct pyroptosis patterns, the immune microenvironment,
+various cell death pathways, leukemia stemness, and genomic alterations, offering novel biomarkers
+and therapeutic targets for risk stratification and immunomodulatory interventions in AML.","Acute myeloid leukemia, Classification, Immune, Prognosis, Pyroptosis"
+40095971,Electroporation-Based CRISPR-Cas9-Mediated Gene Knockout in THP-1 Cells and Single-Cell Clone Isolation.,Journal of visualized experiments : JoVE (J Vis Exp),"The human acute monocytic leukemia (AML) THP-1 cell line is widely used as a model to study the
+functions of human monocyte-derived macrophages, including their interplay with significant human
+pathogens such as the human immunodeficiency virus (HIV). Compared to other immortalized cell lines
+of myeloid origin, THP-1 cells retain many intact inflammatory signaling pathways and display
+phenotypic characteristics that more closely resemble those of primary monocytes, including the
+ability to differentiate into macrophages when treated with phorbol-12-myristate 13-acetate (PMA).
+The use of CRISPR-Cas9 technology to engineer THP-1 cells through targeted gene knockout (KO)
+provides a powerful approach to better characterize immune-related mechanisms, including virus-host
+interactions. This article describes a protocol for efficient CRISPR-Cas9-based engineering using
+electroporation to deliver pre-assembled Cas9:sgRNA ribonucleoproteins into the cell nucleus. Using
+multiple sgRNAs targeting the same locus at slightly different positions results in the deletion of
+large DNA fragments, thereby increasing editing efficiency, as assessed by the T7 endonuclease I
+assay. CRISPR-Cas9-mediated editing at the genetic level was validated by Sanger sequencing followed
+by Inference of CRISPR Edits (ICE) analysis. Protein depletion was confirmed by immunoblotting
+coupled with a functional assay. Using this protocol, up to 100% indels in the targeted locus and a
+decrease of over 95% in protein expression were achieved. The high editing efficiency makes it
+convenient to isolate single-cell clones by limiting dilution.",
+40234753,Acidosis regulates immune progression in rheumatoid arthritis by promoting the expression of cytokines and co-stimulatory molecules in synovial fibroblasts.,"Molecular medicine (Cambridge, Mass.) (Mol Med)","Tissue acidosis is a key characteristic of RA. It remains unclear whether acidosis promotes the
+formation of the complex adaptive immune landscape mainly characterized by T cell activation in RA
+by influencing synovial fibroblasts. This study aims to investigate the influence of acidosis on the
+immune microenvironment of RA by exploring the cytokine secretion and expression of co-stimulatory
+factors of RA synovial fibroblasts.  The Bulk RNA-seq dataset (GSE89408, Normal = 23, RA = 150) was
+utilized for cytokine screening and the immune state assessment based on disease stage. RNA-seq was
+employed to investigate cytokine and co-stimulatory molecule expression following 6 h of acid
+stimulation, combined with Bulk RNA-seq data to evaluate contributions to RA. Human cytokine arrays
+were used to confirm cytokine accumulation in supernatants after 12 h of acid stimulation.
+Proteomics was applied to explore cellular functional states in RASFs under 6 h of acid stress, with
+joint RNA-seq analysis elucidating transcription factor activation. Validation of select high-
+throughput data was performed using qRT-PCR and immune-based assays.  Bulk RNA-seq and RNA-seq
+identified 56 differentially expressed cytokines at their intersection. Functional enrichment
+analysis demonstrated that acid stimulation enhanced cytokine secretion and T cell chemotaxis in RA
+synovial fibroblasts (RASFs). Cytokine array revealed that acid exposure increased the accumulation
+of growth factors (e.g., FGF, VEGF) by over twofold and promoted the expression of multiple
+inflammatory and chemotactic factors. Immune state analysis indicated that acid stimulation induced
+a complex immune landscape by upregulating co-stimulatory and antigen-presenting molecules.
+Proteomics showed that acid stress enhanced mitochondrial function and triggered metabolic
+reprogramming in RASFs. Integrated transcriptomic and proteomic analyses revealed that AP1 regulates
+gene expression in RASFs, with its activation further confirmed by Western blotting and
+immunofluorescence.","AP- 1, Acidosis, Cytokine, Multi-omics, Rheumatoid arthritis"

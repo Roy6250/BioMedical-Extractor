@@ -1,0 +1,69 @@
+{
+    "40183482": {
+        "diseases": [
+            "Acute myeloid leukemia"
+        ],
+        "genes_proteins": [
+            "m6A-related genes"
+        ],
+        "pathways": [],
+        "experimental_methods": [],
+        "key_findings": "",
+        "pubmed_id": "40183482"
+    },
+    "40232841": {
+        "diseases": [
+            "Breast cancer",
+            "Ovarian cancer",
+            "Genetic diseases",
+            "Oncology"
+        ],
+        "genes_proteins": [
+            "BRCA1",
+            "BRCA2",
+            "PALB2"
+        ],
+        "pathways": [
+            "DNA repair"
+        ],
+        "experimental_methods": [],
+        "key_findings": "",
+        "pubmed_id": "40232841"
+    },
+    "40157909": {
+        "diseases": [],
+        "genes_proteins": [],
+        "pathways": [],
+        "experimental_methods": [],
+        "key_findings": "",
+        "pubmed_id": "40157909"
+    },
+    "40242216": {
+        "diseases": [
+            "rare monogenic disorders"
+        ],
+        "genes_proteins": [
+            "Cas9"
+        ],
+        "pathways": [],
+        "experimental_methods": [],
+        "key_findings": "",
+        "pubmed_id": "40242216"
+    },
+    "40225866": {
+        "diseases": [
+            "Ovarian cancer"
+        ],
+        "genes_proteins": [
+            "GBP5",
+            "C5AR1",
+            "MARCHF3"
+        ],
+        "pathways": [
+            "Sphingolipid metabolism"
+        ],
+        "experimental_methods": [],
+        "key_findings": "",
+        "pubmed_id": ""
+    }
+}
